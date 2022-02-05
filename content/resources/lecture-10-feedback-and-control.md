@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 10: Feedback and Control\t\t\t\t"
+title: 'Lecture 10: Feedback and Control    '
 uid: beb682d7-ab19-745c-4e7b-53aa07b17eea
 video_files:
   archive_url: http://www.archive.org/download/MIT6.003F11/MIT6_003F11_lec10_300k.mp4

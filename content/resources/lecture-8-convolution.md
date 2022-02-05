@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 8: Convolution\t\t\t\t"
+title: 'Lecture 8: Convolution    '
 uid: 8ebc62c8-c0f0-7649-8970-770f7c4e946f
 video_files:
   archive_url: http://www.archive.org/download/MIT6.003F11/MIT6_003F11_lec08_300k.mp4

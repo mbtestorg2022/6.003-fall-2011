@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 9: Frequency Response\t\t\t\t"
+title: 'Lecture 9: Frequency Response    '
 uid: f948bb02-3586-3fe2-45cd-8e7cd1426254
 video_files:
   archive_url: http://www.archive.org/download/MIT6.003F11/MIT6_003F11_lec09_300k.mp4

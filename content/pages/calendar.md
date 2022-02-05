@@ -4,30 +4,321 @@ title: Calendar
 uid: 1d7043b6-71c5-d6ce-c5fa-05e67fa297f8
 ---
 
-| SES # | LECTURES | KEY DATES |
-| --- | --- | --- |
-| 1 | Signals and systems | &nbsp; |
-| 2 | Discrete-time systems | HW1 due |
-| 3 | Feedback, poles, and fundamental modes | &nbsp; |
-| 4 | Continuous-time systems | HW2 due |
-| 5 | Z transform | &nbsp; |
-| 6 | Laplace transform | HW3 due |
-| 7 | Discrete approximation of continuous-time systems | &nbsp; |
-| 8 | Convolution | HW4 optional; Exam 1 |
-| 9 | Frequency response | HW5 due |
-| 10 | Feedback and control | &nbsp; |
-| 11 | Continuous-time frequency response and Bode plots | HW6 due |
-| 12 | Continuous-time feedback and control, part 1 | &nbsp; |
-| 13 | Continuous-time feedback and control, part 2 | HW7 optional; Exam 2 |
-| 14 | Fourier representations | &nbsp; |
-| 15 | Fourier series | HW8 due |
-| 16 | Fourier transform | &nbsp; |
-| 17 | Discrete-time frequency representations | HW9 due |
-| 18 | Discrete-time Fourier representations | &nbsp; |
-| 19 | Relations among Fourier representations | HW10 optional; Exam 3 |
-| 20 | Applications of Fourier transforms | &nbsp; |
-| 21 | Sampling | HW11 due |
-| 22 | Sampling and quantization | HW12 due |
-| 23 | Modulation, part 1 | &nbsp; |
-| 24 | Modulation, part 2 | HW13 due |
-| 25 | Audio CD | HW14 optional; Final Exam
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+LECTURES
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Signals and systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Discrete-time systems
+{{< tdclose >}}
+{{< tdopen >}}
+HW1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Feedback, poles, and fundamental modes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Continuous-time systems
+{{< tdclose >}}
+{{< tdopen >}}
+HW2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Z transform
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Laplace transform
+{{< tdclose >}}
+{{< tdopen >}}
+HW3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Discrete approximation of continuous-time systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Convolution
+{{< tdclose >}}
+{{< tdopen >}}
+HW4 optional; Exam 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Frequency response
+{{< tdclose >}}
+{{< tdopen >}}
+HW5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Feedback and control
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Continuous-time frequency response and Bode plots
+{{< tdclose >}}
+{{< tdopen >}}
+HW6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Continuous-time feedback and control, part 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Continuous-time feedback and control, part 2
+{{< tdclose >}}
+{{< tdopen >}}
+HW7 optional; Exam 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Fourier representations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Fourier series
+{{< tdclose >}}
+{{< tdopen >}}
+HW8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Fourier transform
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Discrete-time frequency representations
+{{< tdclose >}}
+{{< tdopen >}}
+HW9 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Discrete-time Fourier representations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Relations among Fourier representations
+{{< tdclose >}}
+{{< tdopen >}}
+HW10 optional; Exam 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Applications of Fourier transforms
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Sampling
+{{< tdclose >}}
+{{< tdopen >}}
+HW11 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Sampling and quantization
+{{< tdclose >}}
+{{< tdopen >}}
+HW12 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Modulation, part 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Modulation, part 2
+{{< tdclose >}}
+{{< tdopen >}}
+HW13 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Audio CD
+{{< tdclose >}}
+{{< tdopen >}}
+HW14 optional; Final Exam
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
