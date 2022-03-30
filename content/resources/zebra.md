@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 0809880b-cf05-0bfb-f22d-ac450701563c
 resourcetype: Image
 title: zebra.jpg
 uid: 6b3ca4c6-0667-dec4-674f-73b52c70d518
